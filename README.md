@@ -11,7 +11,7 @@
 <div align="center">I'm an Information Communication and Technology (ICT) student at Asia e University specializing in software development, skilled in web and mobile app programming, with knowledge of IoT strong basics. Ready to apply my skills in the IT field.</div>
     <br>
 
-<h1 align="center">Feel free to ask or visit me!</h1>
+<h2 align="center"> 💬Feel free to ask or visit me!</h2>
 
 <div align="center"> 
   <a href="mailto:revansyah374@gmail.com">
@@ -25,7 +25,7 @@
  <hr/>
 <div align="center">
     
-# 💻 Tech Stack:
+# 💻 Tech Stack 💻:
 ### **Programming Languages:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -44,7 +44,7 @@
 ### **IoT:**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 📊 Stats:
+# ⚡ Stats ⚡
 ![](https://github-readme-stats.vercel.app/api?username=mrvnsyh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrvnsyh&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvnsyh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -54,7 +54,7 @@
 <br>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot+me;+a+massage+on+Linkedin+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;Shoot+me+a+massage+on+Linkedin+!;" />
 </h1>
 
 </div>
