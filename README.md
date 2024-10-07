@@ -51,14 +51,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrvnsyh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
 <br>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot me+ a massage!+on Linkedin!;" />
 </h1>
+
+</div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
