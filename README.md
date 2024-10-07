@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, Fellas!
 I'm an enthusiastic Information and Communication Technology student with a deep interest in software development. I have a strong background in web programming, mobile app development, and a solid grasp of the core principles of the Internet of Things (IoT). I'm eager to apply the skills I've gained throughout my studies and contribute to the evolving IT landscape.
 
 
