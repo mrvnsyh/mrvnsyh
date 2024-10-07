@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">I'm a B.ICT student specializing in software development, skilled in web and mobile app programming, with knowledge of IoT strong basics. Ready to apply my skills in the IT field.</div>
+<div align="center">I'm an Information Communication and Technology (ICT) student at Asia e University specializing in software development, skilled in web and mobile app programming, with knowledge of IoT strong basics. Ready to apply my skills in the IT field.</div>
     <br>
 
 <h1 align="center">Feel free to ask or visit me!</h1>
@@ -44,7 +44,7 @@
 ### **IoT:**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrvnsyh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrvnsyh&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvnsyh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
