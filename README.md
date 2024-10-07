@@ -1,7 +1,26 @@
-<div style="text-align: center;">
-  
-# Hello, Fellas!
-I'm a passionate ICT student specializing in software development, skilled in web and mobile app programming, with knowledge of IoT strong basics. Ready to apply my skills in the IT field.<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrvnsyh.mrvnsyh" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Revansyah+!;" />
+</h1>
+
+<h3 align="center">A Passionate IT Developer</h3>
+
+<br/>
+
+I'm a B.ICT student specializing in software development, skilled in web and mobile app programming, with knowledge of IoT strong basics. Ready to apply my skills in the IT field.<br>
+
+Feel free to ask or visit me! 
+<div align="center"> 
+  <a href="revansyah374@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadrevansyah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
 
 # 💻 Tech Stack:
 ### **Programming Languages:**
@@ -31,4 +50,4 @@ I'm a passionate ICT student specializing in software development, skilled in we
 [![](https://visitcount.itsvg.in/api?id=mrvnsyh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
+
