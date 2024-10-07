@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate student of information and communication technology, I have a strong desire in software development. I have a solid foundation in web programming, mobile application development, and the fundamental concepts of the Internet of Things (IoT). I am excited and willing to contribute to the IT development environment by using the skills I have acquired during my studies.
+I'm an enthusiastic Information and Communication Technology student with a deep interest in software development. I have a strong background in web programming, mobile app development, and a solid grasp of the core principles of the Internet of Things (IoT). I'm eager to apply the skills I've gained throughout my studies and contribute to the evolving IT landscape.
 
 
 # 💻 Tech Stack:
