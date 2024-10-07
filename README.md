@@ -10,7 +10,8 @@
 
 I'm a B.ICT student specializing in software development, skilled in web and mobile app programming, with knowledge of IoT strong basics. Ready to apply my skills in the IT field.<br>
 
-Feel free to ask or visit me! 
+<h1 align="center">Feel free to ask or visit me!</h1>
+
 <div align="center"> 
   <a href="revansyah374@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
